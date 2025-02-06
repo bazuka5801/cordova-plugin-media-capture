@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-media-capture",
+  "name": "@bazuka5801/cordova-plugin-media-capture",
   "version": "6.0.0-dev",
   "description": "Cordova Media Capture Plugin",
   "types": "./types/index.d.ts",
